@@ -1,6 +1,6 @@
 # Alder & Vane: project explanation
 
-I started with the design in Figma. I used a little Figma Make to explore layouts and ChatGPT to help with early ideas and wording. Once I had a direction I was happy with, I refined the design, chose the images and built the webpage in HTML, CSS and a little JavaScript. I then pushed the project to GitHub and deployed it on Vercel.
+I started with the design in Figma. I used a little Figma Make to explore layouts and ChatGPT to help with early ideas and wording. Once I had a direction I was happy with, I refined the design, chose free images from pexels.com and built the webpage in HTML, CSS and a little JavaScript. I then pushed the project to GitHub and deployed it on Vercel.
 
 [Figma design](https://www.figma.com/design/ShCVzZ66q8sfdAby8sFoDw/Alder---Vane-%E2%80%94-Website-Design?node-id=3-3&t=8SVlF50clAEOF2LO-1) | [GitHub repository](https://github.com/burhanjanjua/alder-and-vane) | [Live website](https://alder-and-vane.vercel.app/)
 
